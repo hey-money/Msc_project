@@ -1,0 +1,94 @@
+{
+  "Crypto Enthusiasts": {
+    "Exploring Dogecoin's Community and Trends": [
+      "What role does social media play in the Dogecoin community?",
+      "How have celebrity endorsements influenced Dogecoin's popularity?",
+      "What are the most recent community-driven trends in the Dogecoin ecosystem?",
+      "In what ways has Dogecoin's community shaped its technical advancements?",
+      "How does Dogecoin's online presence compare to other popular cryptocurrencies?"
+    ],
+    "Understanding Dogecoin’s Technological Advancements": [
+      "What are the latest technical upgrades in the Dogecoin network?",
+      "How does Dogecoin implement smart contracts and cross-chain solutions?",
+      "What challenges does Dogecoin face in terms of scalability?",
+      "What innovations have been introduced to improve Dogecoin's interoperability?",
+      "How does Dogecoin’s blockchain structure differ from other cryptocurrencies?"
+    ],
+    "Engaging in Dogecoin Ecosystem": [
+      "How can one actively participate in Dogecoin's community?",
+      "What platforms are used for discussions and developments in Dogecoin?",
+      "What are some key events where Dogecoin enthusiasts gather?",
+      "How does the community respond to new trends or developments in Dogecoin?",
+      "What are the best resources for staying updated on Dogecoin's ecosystem?"
+    ]
+  },
+  "Blockchain Developers": {
+    "Developing with Dogecoin's Blockchain": [
+      "What tools are available for developers to work with Dogecoin's blockchain?",
+      "How does Dogecoin’s smart contract capability compare to Ethereum?",
+      "What are some limitations developers face on the Dogecoin network?",
+      "How can developers create cross-chain solutions with Dogecoin?",
+      "What libraries or frameworks are commonly used for Dogecoin development?"
+    ],
+    "Exploring Blockchain Whitepapers for Development Insights": [
+      "What scalability solutions are presented in recent blockchain whitepapers?",
+      "How do new blockchain projects approach interoperability?",
+      "What privacy-enhancing technologies are discussed in whitepapers?",
+      "How do blockchain projects integrate decentralized finance elements?",
+      "What foundational technologies inspire new blockchain applications?"
+    ],
+    "Building Scalable and Private Blockchain Solutions": [
+      "What are the current scalability challenges in blockchain technology?",
+      "How can developers enhance privacy in decentralized systems?",
+      "What methods exist to ensure secure and private cross-chain transactions?",
+      "How does Dogecoin plan to address scalability issues?",
+      "What innovations from whitepapers could be integrated into Dogecoin?"
+    ]
+  },
+  "Investors": {
+    "Evaluating Dogecoin's Investment Potential": [
+      "What are the main investment risks associated with Dogecoin?",
+      "How has Dogecoin’s market performance evolved over time?",
+      "How do celebrity endorsements impact Dogecoin's investment potential?",
+      "What future technological developments could influence Dogecoin’s value?",
+      "What strategies do investors use to manage Dogecoin-related risks?"
+    ],
+    "Analyzing Blockchain Projects for Investment": [
+      "What are the primary use cases of blockchain in decentralized finance?",
+      "How does interoperability affect the value of a blockchain project?",
+      "What projects focus on luxury access, and what are their investment merits?",
+      "How does advertising on blockchain differ from traditional platforms?",
+      "What role does Bitcoin play in influencing new blockchain investments?"
+    ],
+    "Understanding the Broader Blockchain Market": [
+      "What factors impact the scalability of blockchain projects?",
+      "How do blockchain privacy innovations influence market perception?",
+      "What role does cross-chain technology play in future blockchain developments?",
+      "How do different blockchain sectors (DeFi, advertising) interact?",
+      "What are the main challenges blockchain projects face in gaining adoption?"
+    ]
+  },
+  "Content Creators and Educators": {
+    "Creating Informative Content on Dogecoin": [
+      "What are the most engaging topics within the Dogecoin community?",
+      "How can one explain Dogecoin’s technical features to beginners?",
+      "What is the history of Dogecoin’s rise in popular culture?",
+      "How do social media trends influence Dogecoin's popularity?",
+      "What challenges do content creators face in discussing Dogecoin?"
+    ],
+    "Educating on Blockchain Innovations": [
+      "How can educators explain the importance of blockchain interoperability?",
+      "What are the fundamental aspects of decentralized finance to teach beginners?",
+      "How does blockchain technology differ between Bitcoin, Ethereum, and Dogecoin?",
+      "What new blockchain projects should be highlighted in educational content?",
+      "How can the challenges of blockchain scalability be explained simply?"
+    ],
+    "Building a Curriculum on Blockchain for Beginners": [
+      "What are the key concepts to cover in an introduction to blockchain?",
+      "How can the use of blockchain in advertising be explained to new learners?",
+      "What are the privacy considerations learners should understand in blockchain?",
+      "How does Dogecoin fit into the larger blockchain ecosystem?",
+      "What are the ethical implications of decentralized finance to include in teaching?"
+    ]
+  }
+}
